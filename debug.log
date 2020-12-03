@@ -470,3 +470,7 @@
 [0812/125458.928:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0812/125458.928:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0812/125458.928:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1130/075155.155:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1201/182533.604:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1202/165119.663:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1203/092113.890:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
